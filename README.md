@@ -11,7 +11,7 @@
 ## 🏆 Solved.ac
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=o3oppp)](https://solved.ac/o3oppp)
 
-## 📚 최신 블로그 글
+## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
