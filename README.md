@@ -13,10 +13,10 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
-- [Could not resolve placeholder '' in value "${}"](https://pparkcoder.tistory.com/86) - 2025-07-03
-- [[학습 커뮤니티] AWS로 CI/CD 구축하기(3) - AWS Parameter Store 설정](https://pparkcoder.tistory.com/85) - 2025-07-03
-- [[학습 커뮤니티] AWS로 CI/CD 구축하기(2) - GitHub Actions 설정](https://pparkcoder.tistory.com/84) - 2025-06-26
-- [[학습 커뮤니티] AWS로 CI/CD 구축하기(1) - 자동 배포를 위한 S3, CodeDeploy 연결](https://pparkcoder.tistory.com/83) - 2025-06-23
-- [[학습 커뮤니티] AWS로 개발 서버 구축하기(5) - Redis 연동](https://pparkcoder.tistory.com/82) - 2025-05-24
+- <a href="https://pparkcoder.tistory.com/86" target="_blank">Could not resolve placeholder '' in value "${}"</a>
+- <a href="https://pparkcoder.tistory.com/85" target="_blank">[학습 커뮤니티] AWS로 CI/CD 구축하기(3) - AWS Parameter Store 설정</a>
+- <a href="https://pparkcoder.tistory.com/84" target="_blank">[학습 커뮤니티] AWS로 CI/CD 구축하기(2) - GitHub Actions 설정</a>
+- <a href="https://pparkcoder.tistory.com/83" target="_blank">[학습 커뮤니티] AWS로 CI/CD 구축하기(1) - 자동 배포를 위한 S3, CodeDeploy 연결</a>
+- <a href="https://pparkcoder.tistory.com/82" target="_blank">[학습 커뮤니티] AWS로 개발 서버 구축하기(5) - Redis 연동</a>
 <!-- BLOG-POST-LIST:END -->
 
