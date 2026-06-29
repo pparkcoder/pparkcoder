@@ -8,6 +8,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_ID)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
+
 ## 🏆 Solved.ac
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=o3oppp)](https://solved.ac/o3oppp)
 
