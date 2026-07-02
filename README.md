@@ -13,10 +13,10 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
+- [JWT](https://pparkcoder.tistory.com/94)
 - [[studyhub] 프로젝트 환경설정](https://pparkcoder.tistory.com/93)
 - [[studyhub] 프로젝트 개요](https://pparkcoder.tistory.com/92)
 - [Could not resolve placeholder '' in value "${}"](https://pparkcoder.tistory.com/86)
 - [[학습 커뮤니티] AWS로 CI/CD 구축하기(3) - AWS Parameter Store 설정](https://pparkcoder.tistory.com/85)
-- [[학습 커뮤니티] AWS로 CI/CD 구축하기(2) - GitHub Actions 설정](https://pparkcoder.tistory.com/84)
 <!-- BLOG-POST-LIST:END -->
 
