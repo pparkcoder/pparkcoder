@@ -11,6 +11,9 @@
 <!-- ## 🏆 Solved.ac -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=o3oppp)](https://solved.ac/o3oppp) -->
 
+## Stat
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pparkcoder&show_icons=true&theme=dracula)
+
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
 - [JWT](https://pparkcoder.tistory.com/94)
