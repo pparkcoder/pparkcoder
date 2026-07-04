@@ -11,9 +11,6 @@
 <!-- ## 🏆 Solved.ac -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=o3oppp)](https://solved.ac/o3oppp) -->
 
-## Stat
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pparkcoder)](https://github.com/pparkcoder/github-readme-stats)
-
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
 - [JWT](https://pparkcoder.tistory.com/94)
