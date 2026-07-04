@@ -12,7 +12,7 @@
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=o3oppp)](https://solved.ac/o3oppp) -->
 
 ## Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pparkcoder&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pparkcoder)](https://github.com/pparkcoder/github-readme-stats)
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
