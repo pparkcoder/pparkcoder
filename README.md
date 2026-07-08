@@ -13,10 +13,10 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security](https://pparkcoder.tistory.com/96)
 - [CSRF](https://pparkcoder.tistory.com/95)
 - [JWT](https://pparkcoder.tistory.com/94)
 - [[studyhub] 프로젝트 환경설정](https://pparkcoder.tistory.com/93)
 - [[studyhub] 프로젝트 개요](https://pparkcoder.tistory.com/92)
-- [Could not resolve placeholder '' in value "${}"](https://pparkcoder.tistory.com/86)
 <!-- BLOG-POST-LIST:END -->
 
