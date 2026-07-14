@@ -13,10 +13,10 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security 구조](https://pparkcoder.tistory.com/97)
 - [Spring Security](https://pparkcoder.tistory.com/96)
 - [CSRF](https://pparkcoder.tistory.com/95)
 - [JWT](https://pparkcoder.tistory.com/94)
 - [[studyhub] 프로젝트 환경설정](https://pparkcoder.tistory.com/93)
-- [[studyhub] 프로젝트 개요](https://pparkcoder.tistory.com/92)
 <!-- BLOG-POST-LIST:END -->
 
