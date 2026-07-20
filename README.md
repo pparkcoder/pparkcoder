@@ -13,7 +13,7 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
-- [SecurityFilterChain](https://pparkcoder.tistory.com/98)
+- [[studyhub] JWT 기반 인증/인가 구현](https://pparkcoder.tistory.com/98)
 - [Spring Security 구조](https://pparkcoder.tistory.com/97)
 - [Spring Security](https://pparkcoder.tistory.com/96)
 - [CSRF](https://pparkcoder.tistory.com/95)
