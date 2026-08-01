@@ -13,7 +13,7 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
-- [[studyhub] GlobalExceptionHandler](https://pparkcoder.tistory.com/99)
+- [[studyhub] Custom Error Code 구현](https://pparkcoder.tistory.com/99)
 - [[studyhub] JWT 기반 인증/인가 구현](https://pparkcoder.tistory.com/98)
 - [Spring Security 구조](https://pparkcoder.tistory.com/97)
 - [Spring Security](https://pparkcoder.tistory.com/96)
