@@ -13,10 +13,10 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
+- [[studyhub] 로그인 구현](https://pparkcoder.tistory.com/100)
 - [[studyhub] Custom Error Code 구현](https://pparkcoder.tistory.com/99)
 - [[studyhub] JWT 기반 인증/인가 구현](https://pparkcoder.tistory.com/98)
 - [Spring Security 구조](https://pparkcoder.tistory.com/97)
 - [Spring Security](https://pparkcoder.tistory.com/96)
-- [CSRF](https://pparkcoder.tistory.com/95)
 <!-- BLOG-POST-LIST:END -->
 
