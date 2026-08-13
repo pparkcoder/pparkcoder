@@ -13,7 +13,7 @@
 
 ## 📚 Tistory
 <!-- BLOG-POST-LIST:START -->
-- [[studyhub] 로그인 구현](https://pparkcoder.tistory.com/100)
+- [[studyhub] Member 설계와 로그인, 토큰 재발급 구현](https://pparkcoder.tistory.com/100)
 - [[studyhub] Custom Error Code 구현](https://pparkcoder.tistory.com/99)
 - [[studyhub] JWT 기반 인증/인가 구현](https://pparkcoder.tistory.com/98)
 - [Spring Security 구조](https://pparkcoder.tistory.com/97)
