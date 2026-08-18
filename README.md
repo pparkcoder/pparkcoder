@@ -11,7 +11,7 @@
 <!-- ## 🏆 Solved.ac -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=o3oppp)](https://solved.ac/o3oppp) -->
 
-## 📚 Tistory
+## 📚 TIL
 <!-- BLOG-POST-LIST:START -->
 - [[studyhub] Member 설계와 로그인, 토큰 재발급 구현](https://pparkcoder.tistory.com/100)
 - [[studyhub] Custom Error Code 구현](https://pparkcoder.tistory.com/99)
