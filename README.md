@@ -13,10 +13,10 @@
 
 ## 📚 TIL
 <!-- BLOG-POST-LIST:START -->
+- [[studyhub] 카페 검색 API와 N+1 해결](https://pparkcoder.tistory.com/102)
 - [[studyhub] 카페 등록 구현](https://pparkcoder.tistory.com/101)
 - [[studyhub] Member 설계와 로그인, 토큰 재발급 구현](https://pparkcoder.tistory.com/100)
 - [[studyhub] Custom Error Code 구현](https://pparkcoder.tistory.com/99)
 - [[studyhub] JWT 기반 인증/인가 구현](https://pparkcoder.tistory.com/98)
-- [Spring Security 구조](https://pparkcoder.tistory.com/97)
 <!-- BLOG-POST-LIST:END -->
 
