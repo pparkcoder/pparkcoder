@@ -13,10 +13,10 @@
 
 ## 📚 TIL
 <!-- BLOG-POST-LIST:START -->
+- [[studyhub] 중복 예약 방지와 좌석 이동 기능 구현](https://pparkcoder.tistory.com/105)
 - [[studyhub] 모듈러 모놀리식에서의 인터페이스 정의](https://pparkcoder.tistory.com/104)
 - [[studyhub] 시간대 예약 기능 구현](https://pparkcoder.tistory.com/103)
 - [[studyhub] 카페 검색 API와 N+1 해결](https://pparkcoder.tistory.com/102)
 - [[studyhub] 카페 등록 구현](https://pparkcoder.tistory.com/101)
-- [[studyhub] Member 설계와 로그인, 토큰 재발급 구현](https://pparkcoder.tistory.com/100)
 <!-- BLOG-POST-LIST:END -->
 
