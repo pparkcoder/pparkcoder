@@ -13,10 +13,10 @@
 
 ## 📚 TIL
 <!-- BLOG-POST-LIST:START -->
+- [[studyhub] 카페 상세 조회 캐싱](https://pparkcoder.tistory.com/109)
 - [[studyhub] Refresh Token 저장소를 Redis로 옮기기](https://pparkcoder.tistory.com/108)
 - [[studyhub] Redis 토큰 블랙리스트 구현](https://pparkcoder.tistory.com/107)
 - [[studyhub] ArchUnit으로 모듈 경계 검증하기](https://pparkcoder.tistory.com/106)
 - [[studyhub] 중복 예약 방지와 좌석 이동 기능 구현](https://pparkcoder.tistory.com/105)
-- [[studyhub] 모듈러 모놀리식에서의 인터페이스 정의](https://pparkcoder.tistory.com/104)
 <!-- BLOG-POST-LIST:END -->
 
