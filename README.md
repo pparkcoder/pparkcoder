@@ -13,10 +13,10 @@
 
 ## 📚 TIL
 <!-- BLOG-POST-LIST:START -->
+- [[studyhub] AI 호출의 실패/비용/응답 시간 다루기](https://pparkcoder.tistory.com/112)
 - [[studyhub] Spring AI로 검색 문장을 검색 조건으로 바꾸기](https://pparkcoder.tistory.com/111)
 - [[studyhub] 카페 검색 결과 캐싱](https://pparkcoder.tistory.com/110)
 - [[studyhub] 카페 상세 조회 캐싱](https://pparkcoder.tistory.com/109)
 - [[studyhub] Refresh Token 저장소를 Redis로 옮기기](https://pparkcoder.tistory.com/108)
-- [[studyhub] Redis 토큰 블랙리스트 구현](https://pparkcoder.tistory.com/107)
 <!-- BLOG-POST-LIST:END -->
 
