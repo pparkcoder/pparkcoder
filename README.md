@@ -13,10 +13,10 @@
 
 ## 📚 TIL
 <!-- BLOG-POST-LIST:START -->
+- [[studyhub] 외부 API 호출을 트랜잭션 밖으로 빼기](https://pparkcoder.tistory.com/115)
 - [[studyhub] 카카오 주소 검색 API로 카페 지역과 좌표를 서버에서 저장하기](https://pparkcoder.tistory.com/114)
 - [[studyhub] Redis 장애 시 401 대신 503으로 응답하기](https://pparkcoder.tistory.com/113)
 - [[studyhub] AI 호출 실패/비용/응답 시간 다루기](https://pparkcoder.tistory.com/112)
 - [[studyhub] Spring AI로 검색 문장을 검색 조건으로 바꾸기](https://pparkcoder.tistory.com/111)
-- [[studyhub] 카페 검색 결과 캐싱](https://pparkcoder.tistory.com/110)
 <!-- BLOG-POST-LIST:END -->
 
